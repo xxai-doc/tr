@@ -7,3 +7,4 @@ Web sitesinin ön uç kodu açık kaynaktır, çeviriyi optimize etmeye yardımc
 * [ön uç kodu](https://github.com/xxai-art/web)
 * [Bir bütün olarak site için dil paketleri](https://github.com/xxai-art/web/tree/main/i18n)
 * [Oturum açma modülleri için dil paketleri](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Web Sitesi Çok Dilli Belgeler](https://github.com/xxai-doc)
